@@ -1,0 +1,19 @@
+# Snake Game 🐍
+
+A classic Snake game implementation in Java using Swing GUI.
+
+![Game Screenshot](screenshots/game-screenshot.png)
+
+## Features
+- 🕹️ Classic snake gameplay mechanics
+- 🍎 Food spawning system
+- 💀 Collision detection (walls & self)
+- 📈 Score tracking
+- 🔄 Restart functionality
+- 🎮 Arrow key controls
+
+## Installation
+1. Ensure you have Java JDK 11+ installed
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/snake-game-java.git
